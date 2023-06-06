@@ -1,6 +1,6 @@
 # JUCE-Stereo-Chorus
 
-<img src="stereo_chorus.png" width="600" heigth="600"/>
+<img src="stereo_chorus.png"/>
 
 Simple stereo chorus written with the JUCE framework for the Development of music production technologies class (summer 2022).
 
